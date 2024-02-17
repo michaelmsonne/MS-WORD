@@ -1,3 +1,5 @@
+Read more in my blog at https://blog.sonnes.cloud/microsoft-maked-the-source-code-for-ms-dos-and-word-for-windows-available-to-the-public/
+
 # Microsoft Word for Windows Version 1.1a Source Code
 
 Original text from: [http://www.computerhistory.org/atchm/microsoft-word-for-windows-1-1a-source-code/](http://www.computerhistory.org/atchm/microsoft-word-for-windows-1-1a-source-code/)
